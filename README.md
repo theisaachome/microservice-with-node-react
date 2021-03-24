@@ -46,4 +46,4 @@
 
 ## [**Section 23: CI/CD**](https://github.com/theisaachome/microservice-with-node-react/blob/main/section-23.md)
 
-## credit [**Section 23: CI/CD**](https://github.com/chesterheng/)
+## credit [**Chesterheng**](https://github.com/chesterheng/)
